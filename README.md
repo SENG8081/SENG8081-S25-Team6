@@ -15,4 +15,6 @@ This project uses the **Credit Card Fraud Detection dataset** from Kaggle:
 - **Description**: The dataset contains transactions made by European cardholders in September 2013, with 284,807 transactions and 492 labeled frauds.
 - For size and convenience, the dataset is included in compressed format:  `data/creditcard.csv.zip`
 - Before using the data, unzip it:
+- ```bash
+unzip data/creditcard.csv.zip
 

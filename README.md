@@ -22,6 +22,8 @@ As a second datset for this pproject we are using **Credit Card Fraud Detection 
 
 -source: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023?select=creditcard_2023.csv
 - **Description**: This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
-- Data is attached externally 
+- Data is attached externally through google drive
+- https://drive.google.com/file/d/1rZ4r51qNKNW8pO-nL67t_pJ6f-dweRWI/view?usp=sharing
+- 
 
 

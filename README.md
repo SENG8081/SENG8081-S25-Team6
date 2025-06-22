@@ -18,3 +18,8 @@ This project uses the **Credit Card Fraud Detection dataset** from Kaggle:
 - ```bash
 unzip data/creditcard.csv.zip
 
+As a second datset for this pproject we are using **Credit Card Fraud Detection Dataset** from kaggle:
+
+-source: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023?select=creditcard_2023.csv
+
+

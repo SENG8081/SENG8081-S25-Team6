@@ -26,14 +26,13 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
 - For size and convenience, the dataset is included in compressed format:  `data/creditcard.csv.zip`
 - Before using the data, unzip it:
   ```bash
-unzip data/creditcard.csv.zip
+    unzip data/creditcard.csv.zip
 
  Data Set 2 - **Credit Card Fraud Detection Dataset 2023** from Kaggle:
 - Sourse: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 - Due to file size, this dataset is not stored directly in the repo.
 - To download, run the following script
   ```bash
-   pip install -r requirements.txt
    python scripts/download_dataset2.py
 
 

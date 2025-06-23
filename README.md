@@ -7,6 +7,9 @@ It utilizes distributed data storage - HDFS, batch processing tools - Hive, Pig,
 
 The goal is to simulate a real-world financial fraud detection system that can analyze massive transaction volumes and raise alerts in real time.
 
+## Project Team Members
+1.Vikas Manchala - Visualization and Reporting
+
 ## Dataset
 
 This project uses the **Credit Card Fraud Detection dataset** from Kaggle:

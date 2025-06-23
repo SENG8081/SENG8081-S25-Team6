@@ -1,2 +1,5 @@
 ```gitignore
 data/creditcard.csv
+data/dataset2/
+.kaggle/
+kaggle.json

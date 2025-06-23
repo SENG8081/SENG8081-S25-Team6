@@ -8,7 +8,12 @@ It utilizes distributed data storage - HDFS, batch processing tools - Hive, Pig,
 The goal is to simulate a real-world financial fraud detection system that can analyze massive transaction volumes and raise alerts in real time.
 
 ## Project Team Members
-1.Vikas Manchala - Visualization and Reporting
+1. Vikas Manchala - Visualization and Reporting
+2. Roshan Bartaula - Data Engineer
+3. 
+
+## Prerequisites
+1. Install dependencies: `pip install -r requirements.txt`
 
 ## Dataset
 
@@ -20,6 +25,9 @@ This project uses the **Credit Card Fraud Detection dataset** from Kaggle:
 - Before using the data, unzip it:
 - ```bash
 unzip data/creditcard.csv.zip
+ Second dataset
+- Sourse: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+- Due to file size, this dataset is not stored directly in the repo.
 
 
 

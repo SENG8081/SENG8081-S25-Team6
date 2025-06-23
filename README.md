@@ -31,6 +31,18 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
  Data Set 2 - **Credit Card Fraud Detection Dataset 2023** from Kaggle:
 - Sourse: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 - Due to file size, this dataset is not stored directly in the repo.
+- Setup kaggle API by following below steps before running the script
+
+  ### Kaggle API Setup
+
+        To download the dataset, you need your own Kaggle API credentials.
+        
+        1. Go to your Kaggle account settings and click "Create New API Token".
+        2. This will download a file called `kaggle.json`.
+        3. Place `kaggle.json` in a folder named `.kaggle` in your home directory (e.g., `~/.kaggle/kaggle.json`).
+        4. **Do not share or commit your `kaggle.json` file.**
+
+   
 - To download, run the following script
   ```bash
    python scripts/download_dataset2.py

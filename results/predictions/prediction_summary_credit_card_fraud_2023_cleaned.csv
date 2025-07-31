@@ -1,0 +1,2 @@
+dataset,total_transactions,predicted_fraud,actual_fraud,accuracy,high_confidence_predictions,high_risk_transactions,avg_fraud_probability,max_fraud_probability
+credit_card_fraud_2023_cleaned,113726,55268,56863,0.9846209310096196,108259,53326,0.5005748369518848,0.9998092351304176

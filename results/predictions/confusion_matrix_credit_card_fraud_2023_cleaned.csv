@@ -1,0 +1,5 @@
+dataset,category,count,percentage
+credit_card_fraud_2023_cleaned,True Negative (Correct Non-Fraud),56786,49.93229340696059
+credit_card_fraud_2023_cleaned,True Positive (Fraud Caught),55191,48.529799694001376
+credit_card_fraud_2023_cleaned,False Negative (Fraud Missed),1672,1.4702003059986284
+credit_card_fraud_2023_cleaned,False Positive (False Alarm),77,0.06770659303941051

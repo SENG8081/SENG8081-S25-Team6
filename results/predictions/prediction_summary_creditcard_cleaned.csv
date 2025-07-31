@@ -1,0 +1,2 @@
+dataset,total_transactions,predicted_fraud,actual_fraud,accuracy,high_confidence_predictions,high_risk_transactions,avg_fraud_probability,max_fraud_probability
+creditcard_cleaned,50409,104,77,0.9991469777222322,50055,76,0.023285754737120763,0.9995855109816723

@@ -1,0 +1,5 @@
+dataset,category,count,percentage
+creditcard_cleaned,True Negative (Correct Non-Fraud),50297,99.77781745323256
+creditcard_cleaned,True Positive (Fraud Caught),69,0.13688031899065642
+creditcard_cleaned,False Positive (False Alarm),35,0.06943204586482572
+creditcard_cleaned,False Negative (Fraud Missed),8,0.015870181911960164

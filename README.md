@@ -30,7 +30,7 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
     unzip data/creditcard.csv.zip
 
  Data Set 2 - **Credit Card Fraud Detection Dataset 2023** from Kaggle:
-- Sourse: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+- Source: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 - Due to file size, this dataset is not stored directly in the repo.
 - Setup kaggle API by following below steps before running the script
 
@@ -104,4 +104,5 @@ Model performance metrics, confusion matrices, ROC curves, and feature importanc
 
 ## References
 Source: [Kaggle – Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-Sourse: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+
+Source: [Kaggle – Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)

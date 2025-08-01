@@ -94,9 +94,9 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
 2. Download and extract datasets as described above.
 3. Run data preparation and model scripts in the scripts/ directory.
 4. ### View results and visualizations:
-a. Plots are saved in the plots/ directory.
-b. Exported CSVs for Tableau are in the results/ directory.
-c. Open Tableau dashboards to explore model performance and feature importances.
+1. Plots are saved in the plots/ directory.
+2. Exported CSVs for Tableau are in the results/ directory.
+3. Open Tableau dashboards to explore model performance and feature importances.
 
 ## Results
 Machine learning models (Logistic Regression, Random Forest) were trained and evaluated on both datasets.

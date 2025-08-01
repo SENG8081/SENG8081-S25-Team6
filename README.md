@@ -49,7 +49,8 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
    python scripts/download_dataset2.py
 
 ## Project Structure
-'''
+plaintext
+Copy 
 .
 ├── data/
 │   ├── creditcard.csv.zip
@@ -86,7 +87,6 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
 ├── SENG8081-25S-Project.docx
 ├── Project-Updated.docx
 └── [other documentation or supporting files]
-'''
 
 ## How to Run
     Install dependencies: pip install -r requirements.txt

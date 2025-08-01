@@ -49,44 +49,42 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
    python scripts/download_dataset2.py
 
 ## Project Structure
-plaintext
-Copy 
-.
-├── data/
-│   ├── creditcard.csv.zip
-│   ├── [other raw data files]
-│   └── processed/
-│
-├── scripts/
-│   ├── download_dataset2.py
-│   ├── data_cleaning.py
-│   ├── model_training.py
-│   ├── feature_importance_extraction.py
-│   ├── test_set_predictions.py
-│   └── [other utility scripts]
-│
-├── plots/
-│   ├── baseline/
-│   ├── model_prep/
-│   └── tuning/
-│
-├── results/
-│   ├── feature_importance_creditcard_cleaned.csv
-│   ├── feature_importance_credit_card_fraud_2023_cleaned.csv
-│   ├── test_set_predictions_creditcard_cleaned.csv
-│   ├── test_set_predictions_credit_card_fraud_2023_cleaned.csv
-│   └── [other result CSVs]
-│
-├── tableau/
-│   └── [Tableau workbook files, e.g., dashboards.twbx]
-│
-├── requirements.txt
-├── README.md
-├── Project Report - Team 6.docx
-├── SENG8081 Field Project Template.docx
-├── SENG8081-25S-Project.docx
-├── Project-Updated.docx
-└── [other documentation or supporting files]
+```bash
+    ├── data/
+    │   ├── creditcard.csv.zip
+    │   ├── [other raw data files]
+    │   └── processed/
+    │
+    ├── scripts/
+    │   ├── download_dataset2.py
+    │   ├── data_cleaning.py
+    │   ├── model_training.py
+    │   ├── feature_importance_extraction.py
+    │   ├── test_set_predictions.py
+    │   └── [other utility scripts]
+    │
+    ├── plots/
+    │   ├── baseline/
+    │   ├── model_prep/
+    │   └── tuning/
+    │
+    ├── results/
+    │   ├── feature_importance_creditcard_cleaned.csv
+    │   ├── feature_importance_credit_card_fraud_2023_cleaned.csv
+    │   ├── test_set_predictions_creditcard_cleaned.csv
+    │   ├── test_set_predictions_credit_card_fraud_2023_cleaned.csv
+    │   └── [other result CSVs]
+    │
+    ├── tableau/
+    │   └── [Tableau workbook files, e.g., dashboards.twbx]
+    │
+    ├── requirements.txt
+    ├── README.md
+    ├── Project Report - Team 6.docx
+    ├── SENG8081 Field Project Template.docx
+    ├── SENG8081-25S-Project.docx
+    ├── Project-Updated.docx
+    └── [other documentation or supporting files]
 
 ## How to Run
     Install dependencies: pip install -r requirements.txt

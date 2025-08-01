@@ -49,6 +49,7 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
    python scripts/download_dataset2.py
 
 ## Project Structure
+
 │
 ├── data/
 │   ├── creditcard.csv.zip
@@ -65,22 +66,8 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
 │
 ├── plots/
 │   ├── baseline/
-│   │   ├── confusion_matrices_creditcard_cleaned.png
-│   │   ├── confusion_matrices_credit_card_fraud_2023_cleaned.png
-│   │   ├── model_comparison_creditcard_cleaned.png
-│   │   ├── model_comparison_credit_card_fraud_2023_cleaned.png
-│   │   ├── roc_curves_creditcard_cleaned.png
-│   │   └── roc_curves_credit_card_fraud_2023_cleaned.png
 │   ├── model_prep/
-│   │   ├── class_distribution_creditcard_cleaned.png
-│   │   ├── class_distribution_credit_card_fraud_2023_cleaned.png
-│   │   └── class_distribution_mlg_ulb.png
 │   └── tuning/
-│       ├── amount_analysis_mlg_ulb.png
-│       ├── class_distribution_mlg_ulb.png
-│       ├── correlation_matrix_mlg_ulb.png
-│       ├── pca_features_analysis_mlg_ulb.png
-│       └── time_analysis_mlg_ulb.png
 │
 ├── results/
 │   ├── feature_importance_creditcard_cleaned.csv

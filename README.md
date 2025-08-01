@@ -49,7 +49,7 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
    python scripts/download_dataset2.py
 
 ## Project Structure
-```bash
+  ```bash
     ├── data/
     │   ├── creditcard.csv.zip
     │   ├── [other raw data files]

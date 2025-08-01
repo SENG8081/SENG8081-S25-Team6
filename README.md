@@ -90,17 +90,17 @@ Data Set 1 - **Credit Card Fraud Detection dataset** from Kaggle:
 
 
 ## How to Run
-    Install dependencies: pip install -r requirements.txt
-    Download and extract datasets as described above.
-    Run data preparation and model scripts in the scripts/ directory.
-    View results and visualizations:
-    Plots are saved in the plots/ directory.
-    Exported CSVs for Tableau are in the results/ directory.
-    Open Tableau dashboards to explore model performance and feature importances.
+Install dependencies: pip install -r requirements.txt
+Download and extract datasets as described above.
+Run data preparation and model scripts in the scripts/ directory.
+View results and visualizations:
+Plots are saved in the plots/ directory.
+Exported CSVs for Tableau are in the results/ directory.
+Open Tableau dashboards to explore model performance and feature importances.
 
 ## Results
-    Machine learning models (Logistic Regression, Random Forest) were trained and evaluated on both datasets.
-    Model performance metrics, confusion matrices, ROC curves, and feature importances are visualized in the plots/ directory and Tableau dashboards.
+Machine learning models (Logistic Regression, Random Forest) were trained and evaluated on both datasets.
+Model performance metrics, confusion matrices, ROC curves, and feature importances are visualized in the plots/ directory and Tableau dashboards.
 
 ## References
 Source: [Kaggle – Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
